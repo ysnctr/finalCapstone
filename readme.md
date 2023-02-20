@@ -16,7 +16,7 @@ In this task, I have performed clustering techniques on the dataset provided (Us
 Please type below code in your Terminal. 
 ```
 git remote add origin https://github.com/ysnctr/finalCapstone.git.
-```
+
 
 ### Usage
 You can use the jupyter notebook to modify the code. For example, I obtained a silhoutte score of 0.59 with using Assault vs Rape columns. You may get a different value if you use other columns. 
