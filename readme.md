@@ -9,6 +9,7 @@ In this task, I have performed clustering techniques on the dataset provided (Us
 - [HyperionDev Program - T51 - Compulsary Task 1](#hyperiondev-program---t51---compulsary-task-1)
   * [US Arrests](#us-arrests)
     + [Installation](#installation)
+    + [ Usage](#usage)
 
 
 ### Installation 
