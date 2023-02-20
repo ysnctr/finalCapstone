@@ -21,8 +21,7 @@ git remote add origin https://github.com/ysnctr/finalCapstone.git.
 You may modify the code through jupyter notebook. For example, I obtained a silhoutte score of 0.59 with using Assault vs Rape columns. You may get a different value if you use other columns. 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/assets/images/electrocat.png">
-  <img alt="Silhoutte score and distribution of classes on assault vs rape data." src="/assets/images/electrocat.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/assets/images/silhoutteScore.png">
+  <img alt="Silhoutte score and distribution of classes on assault vs rape data." src="/assets/images/silhoutteScore.png">
 </picture>
 
-![This is an image](/assets/images/electrocat.png)
