@@ -14,9 +14,9 @@ In this task, I have performed clustering techniques on the dataset provided (Us
 
 ### Installation 
 Please type below code in your Terminal. 
-<!-- ```
+```
 git remote add origin https://github.com/ysnctr/finalCapstone.git.
-``` -->
+```
 
 
 
