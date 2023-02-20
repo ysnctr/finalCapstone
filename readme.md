@@ -6,10 +6,10 @@ In this task, I have performed clustering techniques on the dataset provided (Us
 
 ### Table of contents
 
-- [HyperionDev Program - T51 - Compulsary Task 1](#hyperiondev-program---t51---compulsary-task-1)
+<!-- - [HyperionDev Program - T51 - Compulsary Task 1](#hyperiondev-program---t51---compulsary-task-1)
   * [US Arrests](#us-arrests)
     + [Installation](#installation)
-    + [Usage](#usage)
+    + [Usage](#usage) -->
 
 
 ### Installation 
@@ -19,7 +19,6 @@ git remote add origin https://github.com/ysnctr/finalCapstone.git.
 ```
 
 ### Usage
-
 You may modify the code through jupyter notebook. For example, I obtained a silhoutte score of 0.59 with using Assault vs Rape columns. You may get a different value if you use other columns. 
 
 <picture>
