@@ -6,14 +6,16 @@ In this task, I have performed clustering techniques on the dataset provided (Us
 
 ### Table of contents
 
-<!-- - [HyperionDev Program - T51 - Compulsary Task 1](#hyperiondev-program---t51---compulsary-task-1)
+- [HyperionDev Program - T51 - Compulsary Task 1](#hyperiondev-program---t51---compulsary-task-1)
   * [US Arrests](#us-arrests)
+    + [Table of contents](#table-of-contents)
     + [Installation](#installation)
-    + [Usage](#usage) -->
+    + [Usage](#usage)
+    + [Credits](#credits)
 
 
 ### Installation 
-Please type below code in your Terminal. 
+Please type the below code in your Terminal. 
 ```
 git remote add origin https://github.com/ysnctr/finalCapstone.git.
 ```
@@ -23,7 +25,7 @@ git remote add origin https://github.com/ysnctr/finalCapstone.git.
 
 
 ### Usage
-You can use the jupyter notebook to modify the code. For example, I obtained a silhoutte score of 0.59 with using Assault vs Rape columns. You may get a different value if you use other columns. 
+You can use the jupyter notebook to modify the code. For example, I obtained a silhouette score of 0.59 by using Assault vs Rape columns. You may get a different value if you use other columns. 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/assets/images/silhoutteScore.png">
@@ -32,6 +34,5 @@ You can use the jupyter notebook to modify the code. For example, I obtained a s
 
 ### Credits
 
-This program is written by [Yasin Cotur](https://pages.github.com/ysnctr) as a compulsary task given by
-[HyperionDev](https://pages.github.com/HyperionDev)
+This program is written by [Yasin Cotur](https://pages.github.com/ysnctr) as a compulsory task given by [HyperionDev](https://pages.github.com/HyperionDev)
 
