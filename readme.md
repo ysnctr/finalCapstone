@@ -25,7 +25,7 @@ git remote add origin https://github.com/ysnctr/finalCapstone.git.
 
 
 ### Usage
-You can use the jupyter notebook to modify the code. For example, I obtained a silhouette score of 0.59 by using Assault vs Rape columns. You may get a different value if you use other columns. 
+You can use the jupyter notebook to modify the code. For example, the silhouette score of 0.59 was obtained from Assault vs Rape variables. 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/assets/images/silhoutteScore.png">
